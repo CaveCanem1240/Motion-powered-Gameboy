@@ -6,10 +6,11 @@
 
 <!-- ## Project structure -->
 
-## Setup and usage
 Demo Paper: https://dl.acm.org/doi/10.1145/3560905.3568070
 
 Link to the video: https://cavecanem1240.github.io/pages/project.html
+
+## Setup and usage
 
 Coming soon! This is debug version (2021-11-05) of Motion-powered Gameboy. 
 
