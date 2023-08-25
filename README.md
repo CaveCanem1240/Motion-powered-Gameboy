@@ -18,5 +18,5 @@ Coming soon! This is debug version (2021-11-05) of Motion-powered Gameboy.
 ### Hardware design
 - Altium Designer (version 21.2.0 or above) is used for the PCB design.
 ### Software design
-- Keil5 is ussed to compile the software. 
+- Keil5 is used to compile the software. 
 
